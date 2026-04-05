@@ -38,12 +38,10 @@ This enables data-driven decision-making in credit approval processes.
 ---
 
 ## 📈 Model Performance
-(Images)
 
-Example:
 - Accuracy: 87%
-- Precision: 82%
-- Recall: 79%
+- Precision: 90%
+- Recall: 83%
 
 ---
 
@@ -55,7 +53,7 @@ Example:
 ---
 
 ## 📊 Visualizations
-(Add screenshots here)
+(Images)
 
 ---
 

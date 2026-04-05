@@ -1,4 +1,5 @@
 # 💳 Loan Default Risk Prediction
+🎯 Built to support data-driven credit risk decisions in financial institutions
 
 ## 📌 Overview
 This project builds a machine learning model to predict whether a customer is likely to default on a loan based on financial and demographic data.

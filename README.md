@@ -38,7 +38,7 @@ This enables data-driven decision-making in credit approval processes.
 ---
 
 ## 📈 Model Performance
-(Add your actual results here)
+(Images)
 
 Example:
 - Accuracy: 87%

@@ -53,7 +53,7 @@ This enables data-driven decision-making in credit approval processes.
 ---
 
 ## 📊 Visualizations
-(Images)
+(https://github.com/MadukaEpasinghe/loan-default-risk-prediction/tree/main/Images)
 
 ---
 
